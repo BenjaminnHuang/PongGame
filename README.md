@@ -1,5 +1,7 @@
 # PongGame
 
+This is a player vs computer pong game.
+
 ## GamePlay----
 
 
